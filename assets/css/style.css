@@ -6,7 +6,7 @@
 
 .bodi {
     height: 100vh;
-    background-color: #3bacbb;
+    background-image:  linear-gradient(#FFB6C1, lightblue);
 }
 
 .card {
@@ -20,24 +20,24 @@
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #dbd377 !important;
+    background-color: #B0E0E6 !important;
     background-clip: border-box;
     border: 0px solid rgba(0, 0, 0, 0) !important;
     border-radius: 10px !important;
 }
 
 .judul {
-    font-family: 'Island Moments', cursive;
-    color: #D3F3EE;
+    font-family: 'Kaushan Script', cursive;
+    color: #F5FFFA;
 }
 
 .subjudul {
-    font-family: 'Island Moments';
-    color: #3bacbb;
+    font-family: 'Kaushan Script', cursive;
+    color: #F5FFFA;
 }
 
 .tombol {
-    background: #3bacbb;
+    background: #D8BFD8;
     border: none;
     outline: none;
     border-radius: 6px;
@@ -58,13 +58,19 @@
 }
 
 .modal-content {
-    background-color: #dbd377 !important;
+    background-color: #B0E0E6 !important;
 }
 
 .modal-body {
     color: #3bacbb !important;
 }
 
+.modal-title {
+	color: #F5FFFA !important;
+	font-family: 'Lobster Two', cursive;
+	font-weight: bold;
+	
+}
 .circle {
     position: absolute;
     border-radius: 50%;
@@ -188,5 +194,7 @@
 }
 
 #tekss {
+	font-family: 'Kalam', cursive;
+	font-size: 14pt;
     font-weight: bold;
 }
