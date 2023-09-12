@@ -15,6 +15,10 @@
 ╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝    
                                                                     
 ```
+</p>
+<p align="center">
+<a href="https://github.com/OkabeRintarou26"><img title="Author" src="https://img.shields.io/badge/Author-Okabe-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
 ## Thanks! I'm social!
 
