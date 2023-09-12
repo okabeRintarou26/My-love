@@ -15,10 +15,6 @@
 ╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝    
                                                                     
 
-```js
-console.log('Happy Birthday!');
-```
-
 
 ## Thanks! I'm social!
 
